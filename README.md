@@ -1,17 +1,21 @@
 # Solar Energy Forecasting RAMP Challenge
 
-Authors: Idriss Lakas, Anis Dounia
+**Authors:** Idriss Lakas, Anis Dounia
 
 ## Introduction
 
-This challenge aims to classify the solar energy output into different power categories.
+Accurate forecasting of solar power output is essential for efficient energy management, optimal integration of renewable energy sources, and maintaining grid stability. Predicting solar power categories accurately can help energy providers plan better, minimize energy losses, and optimize resource allocation.
+
+The goal of this RAMP challenge is to develop a robust algorithm that accurately classifies solar energy output into distinct power generation categories based on historical sensor and inverter-level data from solar plants.
 
 ## Data Description
-The dataset contains time-series power generation data from solar plants. It has features such as:
-- **hour, day, month**: Extracted from timestamps.
-- **SOURCE_KEY**: Encoded identifier of the source.
-- **DC_POWER**: Direct Current power output (used for classification).
-- **AC_POWER, TOTAL_YIELD**: Additional power-related features .
+
+The provided dataset consists of time-series measurements collected from two solar power plants in India over a 34-day period. Key features include:
+
+- **Hour, Day, Month**: Temporal features extracted from timestamps.
+- **SOURCE_KEY**: Encoded identifiers representing individual inverters.
+- **DC_POWER**: Direct current power output used to define power categories for classification.
+- **AC_POWER, TOTAL_YIELD**: Additional metrics related to overall energy production.
 
 ## Getting started
 
