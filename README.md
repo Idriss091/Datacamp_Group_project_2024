@@ -4,7 +4,7 @@
 
 ## Introduction
 
-Accurate forecasting of solar power output is essential for efficient energy management, optimal integration of renewable energy sources, and maintaining grid stability. Predicting solar power categories accurately can help energy providers plan better, minimize energy losses, and optimize resource allocation.
+Accurate forecasting of solar power output is essential for efficient energy management, optimal integration of renewable energy sources and maintaining grid stability. Predicting solar power categories accurately can help energy providers plan better, minimize energy losses and optimize resource allocation.
 
 The goal of this RAMP challenge is to develop a robust algorithm that accurately classifies solar energy output into distinct power generation categories based on historical sensor and inverter-level data from solar plants.
 
