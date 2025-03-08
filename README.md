@@ -1,6 +1,6 @@
 # Solar Energy Forecasting RAMP Challenge
 
-Authors: [Idriss Lakas], [Anis Dounia]
+Authors: Idriss Lakas, Anis Dounia
 
 ## Introduction
 
