@@ -41,7 +41,7 @@ python prepare_data.py
 ### Challenge description
 
 Get started on this RAMP with the
-[dedicated notebook](template_starting_kit.ipynb).
+[dedicated notebook](Solar_Energy_Forecasting.ipynb).
 
 ### Test a submission
 
