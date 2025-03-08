@@ -1,0 +1,7 @@
+matplotlib
+scikit-learn
+PyWavelets
+numpy
+pandas
+ramp-workflow
+kagglehub
