@@ -1,5 +1,6 @@
 # Solar Energy Forecasting RAMP Challenge
 
+Authors: [Idriss Lakas], [Anis Dounia]
 
 ## Introduction
 
@@ -11,8 +12,6 @@ The dataset contains time-series power generation data from solar plants. It has
 - **SOURCE_KEY**: Encoded identifier of the source.
 - **DC_POWER**: Direct Current power output (used for classification).
 - **AC_POWER, TOTAL_YIELD**: Additional power-related features .
-
-  Authors: [Idriss Lakas], [Anis Dounia]
 
 ## Getting started
 
