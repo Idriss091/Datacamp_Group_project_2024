@@ -6,6 +6,10 @@
 
 .ipynb_checkpoints
 
+__pycache__/
+*.pyc
+
+
 tags
 .tags
 .tags1
